@@ -1,0 +1,8 @@
+CLAUDE.md
+# Ignore all Claude-related files and folders (case-insensitive)
+CLAUDE*
+claude*
+*CLAUDE*
+*claude*
+*/CLAUDE*
+*/claude*
