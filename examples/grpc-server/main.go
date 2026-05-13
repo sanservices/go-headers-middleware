@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	"go-headers-middleware/propagation"
+	"github.com/sanservices/go-headers-middleware/propagation"
 
 	"google.golang.org/grpc"
 	pb "google.golang.org/grpc/examples/helloworld/helloworld"

@@ -5,8 +5,7 @@ import (
 	"log"
 	"time"
 
-	"go-headers-middleware/propagation"
-
+	"github.com/sanservices/go-headers-middleware/propagation"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 	pb "google.golang.org/grpc/examples/helloworld/helloworld"

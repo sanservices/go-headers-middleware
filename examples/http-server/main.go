@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"go-headers-middleware/propagation"
+	"github.com/sanservices/go-headers-middleware/propagation"
 )
 
 func main() {

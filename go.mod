@@ -1,4 +1,4 @@
-module go-headers-middleware
+module github.com/sanservices/go-headers-middleware
 
 go 1.25.0
 
